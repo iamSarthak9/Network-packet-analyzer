@@ -1,6 +1,6 @@
 # Network Packet Analyzer & Real-Time Traffic Monitor
 > **A Modern C++17 Systems Programming Project**  
-> *Inspired by the core concepts of 'nload' (Copyright © Roland Riegel), refactored into a clean, educational, high-performance systems tool.*
+> *Inspired by the core concepts of 'nload' (Copyright © Roland Riegel), A clean, educational, high-performance systems tool.*
 
 ---
 
